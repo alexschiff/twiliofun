@@ -7,4 +7,6 @@ This was connected to a series of Twilio apps I made using a service called Webs
 2) Texted my friend Dave every Saturday at approximately 6:30pm, "Hellllll yeah" for about 3 months without him knowing the culprit<br>
 3) Texted me every morning, "What's on your mind?" and posted the response on Twitter with "#dailythoughtjournal" appended
 
-I was later informed that the first two apps were apparently not condoned by Twilio's Terms of Service...oops. 
+index.html was so that anyone could add a phone number and message of their own. 
+
+I was later informed that the first two apps were apparently "violations" of Twilio's "Terms of Service"...oops. 
